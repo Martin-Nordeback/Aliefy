@@ -1,5 +1,5 @@
 # Aliefy
-Group project in application development, by [Martin Nordebäck](https://github.com/Martin-Nordeback) and [Filip Hertzman](https://github.com/https://github.com/FilipHertzman).
+Group project in application development, by [Martin Nordebäck](https://github.com/Martin-Nordeback) and [Filip Hertzman](https://github.com/FilipHertzman)
 # SwiftUI Chat Application
 <img src="https://github.com/Martin-Nordeback/ChatOrganizer/assets/113906826/105fcbc9-50df-4a09-94d5-7313816f6e31" alt="Alt Text" width="400" height="400" />  
 
