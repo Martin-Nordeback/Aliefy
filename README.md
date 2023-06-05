@@ -7,7 +7,8 @@ Group project in application development, by [Martin Nordebäck](https://github.
 This SwiftUI-based chat application is integrated with OpenAI. It allows users to ask questions and receive responses, with features including search, query history, and data persistence across app launches. The views are designed with SwiftUI's layout system, utilizing state variables and environment objects to manage data flow.
 
 ### Demonstration
-https://github.com/Martin-Nordeback/ChatOrganizer/assets/113906826/6b83a2ad-dabb-4e3f-8154-2513ab07bf9a
+https://github.com/Martin-Nordeback/Aliefy/assets/113906826/15703c82-b29c-490b-9533-c4faf09cf630
+
 
 ### Key Features:
 - Registration of new users with email or Google services, along with password handling.
